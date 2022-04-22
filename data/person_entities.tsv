@@ -1,0 +1,58 @@
+Organisation	Period	Prs_id	Prs_surname	Prs_infix	Prs_initials	Prs_function	Prs_category	Prs_country	Prs_role1	Prs_role2	prs_role3
+REMP	1952	1	Beijer		G.	demographer, The Hague	academic	NL	founder	member_MC	secretary-editor
+REMP	1952	2	Groenman		Sj.	sociologist, Leiden	academic	NL	founder	member_MC	vice-chair_BoD
+REMP	1952	3	Zeegers		G.H.L.	sociologist, Nijmegen	academic	NL	founder	member_MC	member_BoD
+REMP	1952	4	Hofstee		E.W.	sociologist, Wageningen	academic	NL	founder	member_BoD	
+REMP	1952	5	Bouman		P.J.	sociologist, Groningen	academic	NL	member_BoD		
+REMP	1952	6	Oldendorff		A.	sociologist, Tilburg	academic	NL	member_BoD		
+REMP	1952	7	Gelissen		H.	chemist	academic	NL	member_BoD		
+REMP	1952	8	Schokking		J.J.	lawyer + sociologist(?), Cologne	academic	NL	member_BoD		
+REMP	1952	9	Sauvy		A.	demographer, UN_comission for Population	academic	FR	chair_BoD	chair_MC	
+REMP	1952	10	Gottmann		J.	geographer, Paris, Princeton	academic	FR	member_BoD		
+REMP	1952	11	Lacroix		M.	New York		FR	member_BoD		
+REMP	1952	12	Jacobson		P.	lawyer, linguist, Geneva	academic	FR	member_BoD	Dep_dir_ICEM	
+REMP	1952	13	Winkler		W.	Statistician, Vienna	academic	AT	member_BoD		
+REMP	1952	14	Janne		H.	classicist, sociologist, Brussels, Brugge	academic	BE	member_BoD		
+REMP	1952	15	Mertens de Wilmars		J.	lawyer, political scienctist Louvain	academic	BE	member_BoD	member_MC	
+REMP	1952	16	Baade		F	Economist, Kiel	academic	DE	member_BoD		
+REMP	1952	17	Mackenroth		G.	sociologist, statistician, demographer, Kiel	academic	DE	member_BoD	member_MC	
+REMP	1952	18	Ritschl		H.	economist, Hamburg	academic	DE	member_BoD		
+REMP	1952	19	Hoffmann		W.	sociologist, economist, (?) Munster i.W.	academic	DE	member_BoD		
+REMP	1952	20	Neundorffer		L.	sociologist, Frankfurt a.M.	academic	DE	member_BoD		
+REMP	1952	21	Gadolin	de	A.	political economist, Helsingfors	academic	FI	member_BoD		
+REMP	1952	22	Vito		F.	economist, Milano	academic	IT	member_BoD		
+REMP	1952	23	Livi		L.	statistician, Florence	academic	IT	member_BoD		
+REMP	1952	24	Parenti		G.	Roma		IT	member_BoD		
+REMP	1952	25	Vergottini		M.	statistician, mathematician, demographer,  (?), Catania	academic	IT	member_BoD		
+REMP	1952	26	Vampa		D	Paris		IT	member_BoD	member_MC	
+REMP	1952	27	Hyrenius		H.	Gothenburg		SE	member_BoD		
+REMP	1952	28	Salin		E.W.	Basel	economist, historian	CH	member_BoD		
+REMP	1952	29	Rappard		W.E.	Geneva	diplomat	CH	member_BoD		
+REMP	1952	30	Nixon		J.W.	Geneva		CH	member_BoD		
+REMP	1952	31	Isaac		J.	London		UK	member_BoD		
+REMP	1952	32	Marshall		M.H.	Ottawa		CA	Correspondent		
+REMP	1952	33	Oudenhove	van	C.M.	Stellenbosch		ZA	Correspondent		
+REMP	1952	34	Kulischer		E.	Washington			Correspondent		
+REMP	1952	35	Brink	vd	T.	staticician CBS	academic	NL	member _MC		
+REMP	1954	36	Clark		C.	econometrist, director Agricultural, Economic Research Institute Oxford		UK /AU	member_BoD		
+REMP	1954	37	Hofsten	von	E.			SE	member_BoD		
+REMP	1954	38	Backer		J.	statistician, chief demographic service, Statistick Sentralbyro	academic	NO	member_BoD		
+REMP	1954	39	Grot		J.	Europese Economische Commissie UN, Geneva		unknown	member_BoD		
+REMP	1954	40	Goudswaard		G.	statistician, director International Bureau of statistics	academic 	NL	member_BoD		
+REMP	1954	41	Oblath		A.	ILO (Manpower/Migration-div., Geneva	academic	IT			
+REMP	1961	42	Fougstedt		G.	statistician, demographer, Fins Centraal Bureau Statistiek	academic	FI	member_BoD		
+REMP	1961	43	Thomas		B.	unknown, Cardiff 		UK /AU	member_BoD		
+REMP	1961	44	Edding		F.	economist, Kiel	academic	DE	member_BoD		
+REMP	1961	45	Kant		E.	geographer, economist University of Lund, Sweden	academic	EE	member_BoD		
+REMP	1961	46	Weinberg		A.	Psychiatrist Jerusalem, Israel	academic		member_BoD		
+REMP	1961	47	Roof		M.	Library of Congres, Washington	unknown	USA	member_BoD		
+REMP	1961	48	Avila	de	F.B.	priest, Rio de Janeira	academic	BR	member_BoD		
+REMP	1969	49	Oudegeest		J.J.	sociologist, demographer (?), Den Haag	academic	NL	member_BoD		
+REMP	1969	50	Appleyard		R.T.	Perth	academic	AU	member_BoD		
+REMP	1969	51	Borrie		W.	Canberra	academic	AU	member_BoD		
+											
+Studies in Social Life Advisory Board	1953-1976	1	Beijer		G.		academic	NL	editor		
+Studies in Social Life Advisory Board	1953-1976	5	Bouman		P.J.	sociologist, Groningen	academic	NL	AB		
+Studies in Social Life Advisory Board	1953-1976	10	Gottmann		J.	geographer, Paris, Princeton	academic	FR	AB		
+Studies in Social Life Advisory Board	1953-1976	19	Hoffmann		W.	sociologist, economist, (?) Munster i.W.	academic	DE	AB		
+Studies in Social Life Advisory Board	1953-1976	23	Livi		L.	statistician, Florence	academic	IT	AB		

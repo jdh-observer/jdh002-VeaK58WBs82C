@@ -1,0 +1,81 @@
+organisation	period_start	last_known_date	prs_id	prs_surname	prs_infix	prs_initials	prs_function	prs_category	is_academic	is_public_administration	Sources	prs_country	prs_role1	prs_role2	prs_role3	is_remp	is_icem	is_dutch_gov	remarks
+REMP	1952	1983	1	Beijer		G.	demographer, The Hague	academic	yes			NL	founder	member_MC	secretary-editor	yes			director-editor (1969)
+REMP	1952	1969	2	Groenman		Sj.	sociologist, Leiden	academic	1947	1943-1950	https://nl.wikipedia.org/wiki/Sjoerd_Groenman (specific version: https://nl.wikipedia.org/w/index.php?title=Sjoerd_Groenman&oldid=58778517)	NL	founder	member_MC	vice-chair_BoD	yes			
+REMP	1952	1969	3	Zeegers		G.H.L.	economist, sociologist, Nijmegen	academic	yes	1941-1950	https://www.ru.nl/kdc/bladeren/archieven-thema/subpagina-archieven-thema/onderwijs-wetenschappen/archieven_van/personen/zeegers/	NL	founder	member_MC	member_BoD	yes			
+REMP	1952	1969	4	Hofstee		E.W.	sociologist, Wageningen	academic	yes	yes, advisor 5 ministeries	http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn5/hofstee	NL	founder	member_BoD		yes			
+REMP	1952	1969	5	Bouman		P.J.	sociologist, Groningen	academic	yes		https://nl.wikipedia.org/wiki/P.J._Bouman, https://nl.wikipedia.org/w/index.php?title=P.J._Bouman&oldid=58577360	NL	member_BoD		chair_BoD (1954)	yes			
+REMP	1952	1969	6	Oldendorff		A.	sociologist Tilburg	academic	yes	1946-1947	https://rjh.ub.rug.nl/MenM/article/download/12467/9939, https://worldcat.org/identities/lccn-no2005080766/	NL	member_BoD			yes			
+REMP	1952	1954	7	Gelissen		H.	chemist, politician	academic	yes	1935-1937	https://nl.wikipedia.org/wiki/Henri_Gelissen, https://nl.wikipedia.org/w/index.php?title=Henri_Gelissen&oldid=58814378	NL	member_BoD			yes			
+REMP	1952		8	Schokking		J.J.	lawyer + sociologist(?), Cologne	academic	yes			NL	member_BoD			yes			
+REMP	1952	1969	9	Sauvy		A.	demographer,UN_comission for Population	academic	1945	1939	https://en.wikipedia.org/wiki/Alfred_Sauvy, https://en.wikipedia.org/w/index.php?title=Alfred_Sauvy&oldid=1012929151 https://fr.wikipedia.org/wiki/Alfred_Sauvy, https://fr.wikipedia.org/w/index.php?title=Alfred_Sauvy&oldid=183972199	FR	chair_BoD	chair_MC		yes			
+REMP	1952	1969	10	Gottmann		J.	geographer, Paris, Princeton	academic	yes	1945	https://en.wikipedia.org/wiki/Jean_Gottmann, https://en.wikipedia.org/w/index.php?title=Jean_Gottmann&oldid=1002739309	FR	member_BoD			yes			
+REMP	1952	1969	11	Lacroix		M.	UN population section, New York	unknown		yes, UN		FR	member_BoD			yes			source, arch beyer IISG, inv.nr. 31, notulen 11-2-1952
+REMP	1952	1957	12	Jacobson		P.	lawyer, linguist, DDG_ICEM, Geneva	academic	yes	1952-1957	https://fr.wikipedia.org/wiki/Pierre_Jacobsen, https://fr.wikipedia.org/w/index.php?title=Pierre_Jacobsen&oldid=168766510	FR	member_BoD	Dep_dir_ICEM(?)		yes	yes		dies 1957
+REMP	1952	1969	13	Winkler		W.	(Governmental) Statistician, Vienna	academic	yes	1920-1955	https://en.wikipedia.org/wiki/Wilhelm_Winkler, https://en.wikipedia.org/w/index.php?title=Wilhelm_Winkler&oldid=989739960	AT	member_BoD			yes			
+REMP	1952		14	Janne		H.	classicist, sociologist, Brussels, Brugge, politician	academic	yes	1932-1965	https://fr.wikipedia.org/wiki/Henri_Janne, https://fr.wikipedia.org/w/index.php?title=Henri_Janne&oldid=183487800	BE	member_BoD			yes			
+REMP	1952	1969	15	Mertens de Wilmars		J.	lawyer, political scienctist Louvain, politician	academic	yes	yes	https://nl.wikipedia.org/wiki/Josse_Mertens_de_Wilmars, https://nl.wikipedia.org/w/index.php?title=Josse_Mertens_de_Wilmars&oldid=58054420	BE	member_BoD	member_MC		yes			
+REMP	1952	1969	16	Baade		F.	Economist, politician, Kiel	academic	yes	1922-1935, 1949-1965	https://de.wikipedia.org/wiki/Fritz_Baade, https://de.wikipedia.org/w/index.php?title=Fritz_Baade&oldid=211316938 https://en.wikipedia.org/wiki/Fritz_Baade, https://en.wikipedia.org/w/index.php?title=Fritz_Baade&oldid=1026512702	DE	member_BoD			yes			
+REMP	1952	1955	17	Mackenroth		G.	lawyer, economist, psychologist	academic	yes	1954-1955	https://ugp.rug.nl/sogi/article/view/22336 https://de.wikipedia.org/wiki/Gerhard_Mackenroth, https://de.wikipedia.org/w/index.php?title=Gerhard_Mackenroth&oldid=209598782	DE	member_BoD	member_MC		yes			dies 1955
+REMP	1952	1969	18	Ritschl		H.	economist, Hamburg	academic	yes	yes, advisor Finanz ministerium 1950-1975	https://de.wikipedia.org/wiki/Hans_Ritschl, https://de.wikipedia.org/w/index.php?title=Hans_Ritschl&oldid=204684569	DE	member_BoD			yes			
+REMP	1952	1969	19	Hoffmann		W.	economist Kiel, Munster	academic	yes	yes, advisor Wirtschaftsministerium 1948-1969	https://www.jstor.org/stable/40749562	DE	member_BoD			yes			
+REMP	1952	1969	20	Neundorffer		L.	sociologist (sociographie), Frankfurt a.M.	academic	yes	yes, 1933-1939; advisor Social policy 1955-1965	https://second.wiki/wiki/ludwig_neundc3b6rfer, https://denl.xcv.wiki/wiki/Ludwig_Neund%C3%B6rfer	DE	member_BoD			yes			
+REMP	1952		21	Gadolin	de	A.	economist	academic	yes		https://fi.wikipedia.org/wiki/C._A._J._Gadolin https://sv.wikipedia.org/wiki/Axel_Gadolin_(nationalekonom)	FI	member_BoD			yes			
+REMP	1952	1954	22	Vito		F.	economist, Milano	academic	yes			IT	member_BoD			yes			
+REMP	1952	1954	23	Livi		L.	statistician, Florence	academic	yes			IT	member_BoD			yes			
+REMP	1952	1969	24	Parenti		G.	statistician , Florence (OECD, ILO)	academic	yes	government consultant		IT	member_BoD			yes			
+REMP	1952	1969	25	Vergottini		M.	statistician, mathematician, demographer, Catania/Rome	academic	yes			IT	member_BoD			yes			
+REMP	1952		26	Vampa		D	Paris	unknown				IT	member_BoD	member_MC		yes			
+REMP	1952	1969	27	Hyrenius		H.	demographer, statistician, Gothenburg (UN population division)	academic	yes			SE	member_BoD			yes			
+REMP	1952	1969	28	Salin		E.W.	economist, historian, Basel	academic	yes			CH	member_BoD			yes			
+REMP	1952	1954	29	Rappard		W.E.	economist, diplomat Geneva	diplomat	yes	yes		CH	member_BoD			yes			
+REMP	1952	1969	30	Nixon		J.W.	statistician International Labour Office Geneva	unknown				CH	member_BoD			yes			
+REMP	1952	1957	31	Isaac		J.	National Institute of Economic and Social Research, London	academic	yes			UK	member_BoD			yes			dies 1957
+REMP	1952		32	Marshall		M.H.	Ottawa	unknown				CA	Correspondent			yes			
+REMP	1952		33	Oudenhove	van	C.M.	Stellenbosch	unknown				ZA	Correspondent			yes			
+REMP	1952		34	Kulischer		E.	Washington	unknown			https://en.wikipedia.org/wiki/Eugene_M._Kulischer		Correspondent			yes			
+REMP	1952		35	Brink	van den	T.	statistician CBS	academic		yes		NL	member _MC			yes			
+REMP	1954	1969	36	Clark		C.	econometrist, director Agricultural, Economic Research Institute Oxford	academic	yes			UK /AU	member_BoD			yes			
+REMP	1954	1969	37	Hofsten	von	E.A.	statistician, demographer	academic	yes	yes		SE	member_BoD			yes			
+REMP	1954	1969	38	Backer		J.	statistician, chief demographic service, Statistick Sentralbyro	academic	yes	yes		NO	member_BoD			yes			
+REMP	1954	1954	39	Grot		J.	Europese Economische Commissie UN, Geneva	unknown				unknown	member_BoD			yes			
+REMP	1954	1969	40	Goudswaard		G.	statistician, director International Bureau of statistics	academic	yes	yes		NL	member_BoD			yes			
+REMP	1954	1969	41	Oblath		A.	ILO (Manpower/Migration-div., Geneva	academic	yes	yes		IT	member_BoD			yes			
+REMP	1961	1969	42	Fougstedt		G.	statistician, demographer, Fins Centraal Bureau Statistiek	academic	yes	1935-1958		FI	member_BoD			yes			
+REMP	1961	1969	43	Thomas		B.	unknown, Cardiff 					UK /AU	member_BoD			yes			
+REMP	1961	1969	44	Edding		F.	economist, Kiel	academic	yes	1935-1943		DE	member_BoD			yes			
+REMP	1961	1969	45	Kant		E.	geographer, economist University of Lund, Sweden	academic	yes			EE	member_BoD			yes			
+REMP	1961	1969	46	Weinberg		A.A.	Psychiatrist Jerusalem, Israel	academic	yes			IL	member_BoD			yes			
+REMP	1961	1969	47	Roof		M.	Library of Congres, Washington	unknown				USA	member_BoD			yes			
+REMP	1961	1969	48	Bastos de Avila		F.	priest, Rio de Janeira	academic				BR	member_BoD			yes			
+REMP	1969	1969	49	Oudegeest		J.J.	sociologist, demographer (?), Den Haag	academic	yes			NL	member_BoD			yes			
+REMP	1969	1969	50	Appleyard		R.T.	economist, Perth	academic	yes			AU	member_BoD			yes			
+REMP	1969	1969	51	Borrie		W.D.	economist, demographer Canberra	academic	yes	1970-1981		AU	member_BoD			yes			
+																			
+Dutch Government	1945	1969	52	Haveman		B.W.	chemist, law, RCE		no	yes		NL				yes		yes	
+Dutch Government	1952	1967	53	Hofstede		B.P.	sociologist, RCE		1964	yes		NL						yes	
+Dutch Government	1946	1972	54	Verwey-Jonker		H.	sociologist	academic	1973	yes		NL						yes	
+Dutch Government	1956	1971	55	Klompe		M.	chemist		no	yes		NL						yes	1956-1963 Minister MW; 1966-1971 min CRM
+																			
+																			
+																			
+ICEM	1952	1954	56	Gibson		Hugh S.	director general					USA					yes		
+ICEM	1955	1958	57	Tittman Jr.		Harold H.	director general					USA					yes		
+ICEM	1958	1961	58	Daly		Marcus	director general					USA					yes		
+ICEM	1961	1969	52	Haveman		Bastiaan W.	director general					NL					yes		
+ICEM	1969	1979	59	Thomas		John	director general					USA					yes		
+ICEM	1979	1988	60	Carlin		James L.	director general					USA					yes		
+ICEM	1988	1998	61	Purcell jr.		James	director general					USA					yes		
+ICEM	1998	2008	62	McKinley		Brunson	director general					USA					yes		
+ICEM	2008	2018	63	Swing		William Lacey	director general					USA					yes		
+ICEM	2018		64	Vitorino		Antonio	director general					PT					yes		
+																			
+																			
+ICEM	1952	1957	12	Jacobson		P.	deputy director general					FR					yes		
+ICEM	1957	1961	65	Epinat		B.G.	deputy director general					FR					yes		
+ICEM	1961	1964	66	MacFadden		J.B.	deputy director general					USA					yes		
+ICEM	1964	1970	67	Besterman		W.M.	deputy director general					USA					yes		
+ICEM	1970	1988	68	Maselli		G.	deputy director general					IT					yes		
+ICEM	1989	1993	69	Charry-Samper		H.	deputy director general					CO					yes		
+ICEM	1994	1999	70	Escaler		N.L. (Narcisa)	deputy director general					PH					yes		
+ICEM	1999	2009	71	Ndioro		N. (Ndiaye)	deputy director general					SN					yes		
+ICEM	2009		72	Thompson		L. (Laura)	deputy director general					CR					yes		

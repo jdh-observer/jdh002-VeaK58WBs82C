@@ -1,8 +1,10 @@
 # Abstract
 
-![Binder](https://mybinder.org/badge_logo.svg)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jdh002-VeaK58WBs82C/HEAD?filepath=article-notebook.ipynb)
 
-This is the abstract dummy text. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+The scholarly debate on international migration has been characterized over the past 30 years by a focus on globalization and a paradigm shift to the study of migration management. The key actors in migration management are the nation states and also the international meetings and organisations consisting of trained experts. They have become more and more the subject of current discourses around the legitimacy of technocratic governance. In this article we will historicize the concept of migration management and investigate the connections between technocratic experts and one of today’s biggest players in the international field, albeit a fairly contested one: the International Organisation for Migration (IOM) by operationalizing the concept of discourses coalitions.
 
 # Keywords
-example, dummy text, lorem ipsum
+
+migration management, technocracy, discourse analysis

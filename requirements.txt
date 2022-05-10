@@ -1,9 +1,9 @@
+jupyter-contrib-nbextensions==0.5.1
 altair==4.2.0
 beautifulsoup4==4.10.0
 community==1.0.0b1
 holoviews==1.14.8
 hvplot==0.7.3
-ipython==8.1.1
 iso3166==2.0.2
 matplotlib==3.5.1
 networkx==2.7.1

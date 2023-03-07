@@ -18,22 +18,19 @@ jupyter:
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
-### anonym [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)]() 
+### Marijke van Faassen [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-8618-6800) 
+Huygens ING
+<!-- #endregion -->
 
+<!-- #region tags=["contributor"] -->
+### Rik Hoekstra [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6951-8014)
+Huygens ING
 
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
-### anonym [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)]() 
-
-
-<!-- #endregion -->
-
-<!-- #region tags=["contributor"] -->
-### anonym [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)]() 
-
-
-
+### Marijn Koolen [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-0301-2029)
+Huygens ING
 <!-- #endregion -->
 
 <!-- #region tags=["copyright"] -->

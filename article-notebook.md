@@ -19,29 +19,23 @@ jupyter:
 
 <!-- #region tags=["contributor"] -->
 ### Marijke van Faassen [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-8618-6800) 
-Huygens ING
+Huygens Institute
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
 ### Rik Hoekstra [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6951-8014)
-Huygens ING
+Huygens Institute
 
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
 ### Marijn Koolen [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-0301-2029)
-Huygens ING
+Huygens Institute
 <!-- #endregion -->
 
 <!-- #region tags=["copyright"] -->
 [![cc-by](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) 
-©<AUTHOR or ORGANIZATION / FUNDER>. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY](https://creativecommons.org/licenses/by/4.0/)
-
-<!-- #endregion -->
-
-<!-- #region tags=["copyright"] -->
-[![cc-by-nc-nd](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
-©<AUTHOR or ORGANIZATION / FUNDER>. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+© Marijke van Faassen - Rik Hoekstra - Marijn Koolen. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
 <!-- #endregion -->
 
@@ -902,7 +896,6 @@ From the _network perspective_ we can add the following questions
 ## Research Questions - research-policy connections
 
 * have we been able to establish a connection between the authors and public administrators in our network analysis and does any changes in content reflect these connections
-* are there articles that reflect 
 * are there any specific articles related to policy issues and how does this manifest itself
 * does the periodizations support conclusions about agenda setting on either policy or research side
 <!-- #endregion -->

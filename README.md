@@ -1,4 +1,4 @@
-# Fifty Years of Technocracy. International Migration Management as an Evolving Discourse Coalition.
+# Fifty Years of Technocracy. International Migration Management as an Evolving Discourse Coalition
 
 ## Abstract
 
